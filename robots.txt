@@ -1,0 +1,4 @@
+Sitemap: https://bkimmig.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: bkimmig.github.io
