@@ -6,12 +6,32 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://bkimmig.github.io/categories/convolution-neural-network.xml</loc>
+  <lastmod>2019-01-26T22:06:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://bkimmig.github.io/categories/cross-correlation.xml</loc>
   <lastmod>2018-03-10T17:25:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://bkimmig.github.io/categories/embedding.xml</loc>
+  <lastmod>2019-01-26T22:06:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://bkimmig.github.io/categories/fourier-transform.xml</loc>
   <lastmod>2018-03-10T17:25:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://bkimmig.github.io/categories/k-nearest-neighbors.xml</loc>
+  <lastmod>2019-01-26T22:06:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://bkimmig.github.io/categories/neural-network.xml</loc>
+  <lastmod>2019-01-26T22:06:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://bkimmig.github.io/categories/pca.xml</loc>
+  <lastmod>2019-01-26T22:06:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://bkimmig.github.io/categories/pollution.xml</loc>
@@ -23,14 +43,14 @@
  </sitemap>
  <sitemap>
   <loc>https://bkimmig.github.io/galleries/rss.xml</loc>
-  <lastmod>2018-03-10T17:19:00Z</lastmod>
+  <lastmod>2019-01-26T22:06:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://bkimmig.github.io/rss.xml</loc>
-  <lastmod>2018-03-10T17:45:00Z</lastmod>
+  <lastmod>2019-01-26T22:06:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://bkimmig.github.io/sitemap.xml</loc>
-  <lastmod>2018-03-10T17:45:00Z</lastmod>
+  <lastmod>2019-01-26T22:06:00Z</lastmod>
  </sitemap>
 </sitemapindex>
