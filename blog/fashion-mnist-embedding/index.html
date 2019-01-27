@@ -107,7 +107,8 @@
 <p>Enter the idea of an embedding. A method to translate a high dimensional vector to a low(er) dimensional space. Embeddings do this by trying to place things that are similar (similarity can determined by the item's label, or maybe what it occurs near/with, however you want to define it), closer together in the lower dimensional space.</p>
 <p>From the paragraph above, it seems like we are just describing dimensionality reduction, and in a sense, we are. However, this is more of a label dependent dimensionality reduction with the bonus of being very general. An embedding can learn thousands of labels at once, because they are looking for similarity among the data with attached labels. In addition, you can easily change your labels (adding, removing, altering), and the embedding can still provide a lot of value.</p>
 <p>Finally, once data has been projected into the lower dimensional space they are just 'features' and can be easily shared across teams and used in other models. A huge bonus for cross data science team collaboration.</p>
-<p>In this post I will do a few things. First, I will go into embeddings a little more, comparing them with familiar methods like PCA and other dimensionality techniques. In the following sections I will be creating models for the <a href="https://github.com/zalandoresearch/fashion-mnist">Fahsion MNIST</a> dataset. The first will be a simple model using only principal component analysis (PCA) and K nearest neighbors (KNN) and the second will use an embedding network with KNN. Along the way we will make some interesting plots and hopefully gain some insight into methods for classifying images.</p>
+<p>In this post I will do a few things. First, I will go into embeddings a little more, comparing them with familiar methods like PCA and other dimensionality techniques. In the following sections I will be creating models for the <a href="https://github.com/zalandoresearch/fashion-mnist">Fahsion MNIST</a> dataset. The first will be a simple model using only principal component analysis (PCA) and K nearest neighbors (KNN) and the second will use an embedding network with KNN. Along the way we will make some interesting plots and hopefully gain some insight into methods for classifying images.
+<!-- TEASER_END --></p>
 <h2 id="Embeddings">Embeddings<a class="anchor-link" href="#Embeddings">¶</a>
 </h2>
 <p>When reducing dimensions of data, we are trying to learn a coordinate space that is as informative as possible. Hearing this, my mind immediately goes to PCA, which can be thought of as an 'embedding' of sorts as it transforms possibly correlated values into linearly uncorrelated values and in the process allows you to reduce your dimensions by leaving out some (a specified amount) of the variance - a lossy embedding. This is a powerful tool, you are guaranteed that some percent of the variance of the dataset is kept, and ensures you don't have any collinear columns. If you work in industry, your first model will likely be a regression of some flavor giving major bonus points there.</p>
@@ -235,8 +236,8 @@
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h4 id="PCA-+-KNN">PCA + KNN<a class="anchor-link" href="#PCA-+-KNN">¶</a>
-</h4>
+<h3 id="PCA-+-KNN">PCA + KNN<a class="anchor-link" href="#PCA-+-KNN">¶</a>
+</h3>
 <p>Ok, so how do we make a model to predict a label for this data set? First we need to set up our features - in this case that is the images. To do this we need to make a data structure where each row represents an observation and each column represents a feauture. Seems easy enough, let's give it a go.</p>
 <p>First let's look at how much variance $n$ features from PCA will explain.</p>
 
