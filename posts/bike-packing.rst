@@ -13,6 +13,7 @@
 
         We started in Seattle, island hopped by ferry, and rode bikes through the San Juan Islands making our way to Vancouver, Canada. Over the week, we put 250 miles on our bikes, ate lots of great food, and took a couple photos.
 
+        "<!-- TEASER_END --> \n",
         <br>
         <img src="/static/img/sea_to_vancouver/thumb_IMG_0248_1024.jpg" style='width: 50%; height: 30%;'>
         <br>

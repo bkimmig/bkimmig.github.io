@@ -13,6 +13,7 @@
         
         <br>
         <img src="/static/img/tour_de_france/2015-07-2612.46.21.jpg" style='width: 50%; height: 30%;'>
+        "<!-- TEASER_END --> \n",
         <br>
         <img src="/static/img/tour_de_france/2015-07-2612.46.25.jpg" style='width: 50%; height: 30%;'>
         <br>
