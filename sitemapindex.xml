@@ -6,10 +6,6 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://bkimmig.github.io/categories/convolution-neural-network.xml</loc>
-  <lastmod>2019-01-27T18:37:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://bkimmig.github.io/categories/convolutional-neural-network.xml</loc>
   <lastmod>2019-01-28T01:02:00Z</lastmod>
  </sitemap>
@@ -55,6 +51,6 @@
  </sitemap>
  <sitemap>
   <loc>https://bkimmig.github.io/sitemap.xml</loc>
-  <lastmod>2019-01-28T01:02:00Z</lastmod>
+  <lastmod>2019-01-28T01:07:00Z</lastmod>
  </sitemap>
 </sitemapindex>
