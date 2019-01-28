@@ -23,7 +23,7 @@
 
         <div class='container-fluid'>
         
-        I obtained by bachelors degree in physics in 2012. I then spent a few years doing research in Astrophysics - mostly stuff in the local galaxy involving kinematics and chemical compositions of stars. It was during this time that I found an interest in computer science, stats, and machine learning; eventually landing in a master's program for computer science at the University of Utah. In Portland, I have been working as somewhat of a hybrid software engineer and data scientist at <a href="https://www.vacasa.com/">Vacasa</a>.
+        I obtained by bachelors degree in physics. After graduation, I spent a few years doing research in Astrophysics - mostly stuff in the local galaxy involving kinematics and chemical compositions of stars. It was during this time that I found an interest in computer science, stats, and machine learning; eventually landing in a master's program for computer science at the University of Utah. In Portland, I have been working as somewhat of a hybrid software engineer and data scientist at <a href="https://www.vacasa.com/">Vacasa</a>.
 
         </div>
 
