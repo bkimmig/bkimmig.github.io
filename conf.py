@@ -201,7 +201,6 @@ PAGES = (
 
 # And to avoid a conflict because blogs try to generate /index.html
 INDEX_PATH = "blog"
-ARCHIVE_PATH = "archive"
 
 # Below this point, everything is optional
 
