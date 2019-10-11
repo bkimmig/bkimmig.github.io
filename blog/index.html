@@ -65,7 +65,41 @@ navbar-dark bg-dark
 
     
 <div class="postindex">
-    <article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="fashion-mnist-embedding/" class="u-url">Fashion MNIST Embedding</a></h1>
+    <article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="20-newsgroups/" class="u-url">20 Newsgroups</a></h1>
+        <div class="metadata">
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
+                Brian Kimmig
+            </span></p>
+            <p class="dateline">
+            <a href="20-newsgroups/" rel="bookmark">
+            <time class="published dt-published" datetime="2019-10-10T13:28:28-08:00" itemprop="datePublished" title="2019-10-10 13:28">2019-10-10 13:28</time></a>
+            </p>
+        </div>
+    </header><div class="p-summary entry-summary">
+    <div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="An-Approach-to-Content-Based-Recommendation">An Approach to Content Based Recommendation<a class="anchor-link" href="20-newsgroups/#An-Approach-to-Content-Based-Recommendation">¶</a>
+</h2>
+<h3 id="Introduction">Introduction<a class="anchor-link" href="20-newsgroups/#Introduction">¶</a>
+</h3>
+<p>For a business, recommendation systems are incredibly valuable. They can have a direct impact on revenue and can greatly improve user experience. They also provide many interesting challenges to the data scientists and engineers along the lines of scalability and performance. People are likely already thinking about using machine learning (ML) to predict a label based on an item title and/or description. During this process, features are actually being created that could arguably be leveraged in your content based recommender system.</p>
+<p>Content based recommendation systems can add a lot of value in two main scenarios.</p>
+<ul>
+<li>Having a large number of items, each with little individual traffic.</li>
+<li>Having dyanmic items that don't have a ton of interactions.</li>
+</ul>
+<p>If you have high traffic, or a lot of historical data, and your items change slowly, a user interaction model will probably provide the strongest solution. However, in the cases noted above, you may want to focus on having a solid content based system.</p>
+<p>In this post, I'll show how we can leverage a neural network to predict the category of text data - for this, I'll be using the <a href="http://qwone.com/~jason/20Newsgroups/">20 newsgroups</a> dataset. Further, I'll show and argue for an architecture that gives us learned feature representation (embedding) that can be easily used to make content based recommendations. In the next few sections you'll see a brief description and exploration of the data (train and test). I'll then go into the data preprocessing pipeline and modeling of the data. We will then look at the basic model performance. Finally, we will look at the use of embeddings for finding similar content.
+</p>
+<p class="more"><a href="20-newsgroups/">Read more…</a></p>
+</div>
+</div>
+</div>
+    </div>
+    </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="fashion-mnist-embedding/" class="u-url">Fashion MNIST Embedding</a></h1>
         <div class="metadata">
             <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                 Brian Kimmig

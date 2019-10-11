@@ -19,11 +19,15 @@
  </url>
  <url>
   <loc>https://bkimmig.github.io/archive.html</loc>
-  <lastmod>2019-10-11T20:27:00Z</lastmod>
+  <lastmod>2019-10-11T20:37:00Z</lastmod>
  </url>
  <url>
   <loc>https://bkimmig.github.io/blog/</loc>
   <lastmod>2019-10-11T20:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://bkimmig.github.io/blog/20-newsgroups/</loc>
+  <lastmod>2019-10-11T20:35:00Z</lastmod>
  </url>
  <url>
   <loc>https://bkimmig.github.io/blog/bike-packing/</loc>
@@ -43,11 +47,15 @@
  </url>
  <url>
   <loc>https://bkimmig.github.io/categories/</loc>
-  <lastmod>2019-10-11T20:12:00Z</lastmod>
+  <lastmod>2019-10-11T20:37:00Z</lastmod>
  </url>
  <url>
   <loc>https://bkimmig.github.io/categories/cat_blog/</loc>
   <lastmod>2019-10-11T20:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://bkimmig.github.io/categories/convolution-neural-network/</loc>
+  <lastmod>2019-10-11T20:37:00Z</lastmod>
  </url>
  <url>
   <loc>https://bkimmig.github.io/categories/convolutional-neural-network/</loc>
@@ -82,15 +90,11 @@
   <lastmod>2018-03-10T17:25:00Z</lastmod>
  </url>
  <url>
+  <loc>https://bkimmig.github.io/categories/recommendation/</loc>
+  <lastmod>2019-10-11T20:37:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://bkimmig.github.io/categories/time-series/</loc>
   <lastmod>2018-03-10T17:25:00Z</lastmod>
- </url>
- <url>
-  <loc>https://bkimmig.github.io/galleries/</loc>
-  <lastmod>2018-02-11T17:25:00Z</lastmod>
- </url>
- <url>
-  <loc>https://bkimmig.github.io/listings/</loc>
-  <lastmod>2018-02-11T17:25:00Z</lastmod>
  </url>
 </urlset>

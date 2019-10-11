@@ -10,6 +10,10 @@
   <lastmod>2019-10-11T20:27:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://bkimmig.github.io/categories/convolution-neural-network.xml</loc>
+  <lastmod>2019-10-11T20:37:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://bkimmig.github.io/categories/convolutional-neural-network.xml</loc>
   <lastmod>2019-10-11T20:27:00Z</lastmod>
  </sitemap>
@@ -19,7 +23,7 @@
  </sitemap>
  <sitemap>
   <loc>https://bkimmig.github.io/categories/embedding.xml</loc>
-  <lastmod>2019-10-11T20:27:00Z</lastmod>
+  <lastmod>2019-10-11T20:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://bkimmig.github.io/categories/fourier-transform.xml</loc>
@@ -27,34 +31,34 @@
  </sitemap>
  <sitemap>
   <loc>https://bkimmig.github.io/categories/k-nearest-neighbors.xml</loc>
-  <lastmod>2019-10-11T20:27:00Z</lastmod>
+  <lastmod>2019-10-11T20:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://bkimmig.github.io/categories/neural-network.xml</loc>
-  <lastmod>2019-10-11T20:27:00Z</lastmod>
+  <lastmod>2019-10-11T20:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://bkimmig.github.io/categories/pca.xml</loc>
-  <lastmod>2019-10-11T20:27:00Z</lastmod>
+  <lastmod>2019-10-11T20:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://bkimmig.github.io/categories/pollution.xml</loc>
   <lastmod>2019-10-11T20:27:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://bkimmig.github.io/categories/recommendation.xml</loc>
+  <lastmod>2019-10-11T20:37:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://bkimmig.github.io/categories/time-series.xml</loc>
   <lastmod>2019-10-11T20:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://bkimmig.github.io/galleries/rss.xml</loc>
-  <lastmod>2019-10-11T20:12:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://bkimmig.github.io/rss.xml</loc>
-  <lastmod>2019-10-11T20:27:00Z</lastmod>
+  <lastmod>2019-10-11T20:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://bkimmig.github.io/sitemap.xml</loc>
-  <lastmod>2019-10-11T20:27:00Z</lastmod>
+  <lastmod>2019-10-11T20:37:00Z</lastmod>
  </sitemap>
 </sitemapindex>
