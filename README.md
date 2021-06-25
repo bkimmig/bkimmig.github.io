@@ -11,7 +11,7 @@ to the `main` branch.
 ## Steps to develop
 
 - `git checkout source`
-- `git brach -b "your branch"`
+- `git checkout -b "your branch"`
 - add code
 - pull request into source
 - merge
