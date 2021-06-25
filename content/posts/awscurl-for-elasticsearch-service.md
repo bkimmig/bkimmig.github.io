@@ -1,7 +1,6 @@
 ---
 title: "awscurl for AWS Elasticsearch Service (via Homebrew)"
 date: 2021-06-24T21:27:11-06:00
-draft: true
 ---
 
 I was recently working on a project that was leveraging Amazon's [Elasticsearch
